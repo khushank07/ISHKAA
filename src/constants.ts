@@ -26,23 +26,44 @@ export const KEY_TO_NOTE: Record<string, string> = {
 };
 
 export const SONG_ANUV_JAIN = {
-  title: "Shayar Jo The Woh Kayar Bane",
+  title: "Kayar Jo The Woh Shayar Bane",
   artist: "Anuv Jain",
   notes: [
-    { note: 'Sa', duration: 800, lyrics: "Sha-" },
+    { note: 'Sa', duration: 800, lyrics: "Ka-" },
     { note: 'Re', duration: 800, lyrics: "yar" },
     { note: 'Ga', duration: 800, lyrics: "jo" },
     { note: 'Ma', duration: 800, lyrics: "the" },
     { note: 'Pa', duration: 800, lyrics: "woh" },
-    { note: 'Dha', duration: 1200, lyrics: "ka-" },
+    { note: 'Dha', duration: 800, lyrics: "sha-" },
     { note: 'Ni', duration: 800, lyrics: "yar" },
-    { note: 'Sa+', duration: 1600, lyrics: "bane" },
-    // Repeat or add more lines
-    { note: 'Sa+', duration: 800, lyrics: "Ba-" },
-    { note: 'Ni', duration: 800, lyrics: "ne" },
-    { note: 'Dha', duration: 800, lyrics: "woh" },
-    { note: 'Pa', duration: 1200, lyrics: "ka-" },
-    { note: 'Ma', duration: 800, lyrics: "yar" },
-    { note: 'Ga', duration: 1600, lyrics: "bane" },
+    { note: 'Sa+', duration: 1200, lyrics: "bane" },
+
+    { note: 'Sa+', duration: 800, lyrics: "Ab" },
+    { note: 'Ni', duration: 800, lyrics: "kya" },
+    { note: 'Dha', duration: 800, lyrics: "kya" },
+    { note: 'Pa', duration: 800, lyrics: "ka-" },
+    { note: 'Ma', duration: 800, lyrics: "rein" },
+    { note: 'Ga', duration: 800, lyrics: "yeh" },
+    { note: 'Re', duration: 800, lyrics: "ishq" },
+    { note: 'Sa', duration: 1200, lyrics: "mein" },
+
+    { note: 'Sa', duration: 800, lyrics: "Na" },
+    { note: 'Re', duration: 800, lyrics: "keh-" },
+    { note: 'Ga', duration: 800, lyrics: "te" },
+    { note: 'Ma', duration: 800, lyrics: "the" },
+    { note: 'Pa', duration: 800, lyrics: "kuchh" },
+    { note: 'Dha', duration: 800, lyrics: "jo" },
+    { note: 'Ni', duration: 800, lyrics: "la-" },
+    { note: 'Sa+', duration: 1200, lyrics: "ge" },
+
+    { note: 'Sa+', duration: 800, lyrics: "Khoz" },
+    { note: 'Ni', duration: 800, lyrics: "mein" },
+    { note: 'Dha', duration: 800, lyrics: "kya" },
+    { note: 'Pa', duration: 800, lyrics: "lafz" },
+    { note: 'Ma', duration: 800, lyrics: "chu-" },
+    { note: 'Ga', duration: 800, lyrics: "ne" },
+    { note: 'Re', duration: 800, lyrics: "aa-" },
+    { note: 'Sa', duration: 1200, lyrics: "shiq" },
+    { note: 'Sa', duration: 1200, lyrics: "yeh" },
   ]
 };
